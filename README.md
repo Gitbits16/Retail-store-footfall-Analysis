@@ -1,5 +1,5 @@
 # Retail-store-footfall-Analysis
-Below is a professional and detailed description for your GitHub **README.md** 
+Below is a professional and detailed description for **README.md** 
 
 ---
 
