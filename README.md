@@ -7,7 +7,7 @@ Below is a professional and detailed description for **README.md**
 
 The purpose of this project is to **analyze and forecast** customers' footfall volume entering a retail store. The project uses **data visualization and machine learning**, which helps to determine **peak hours** and forecast trends of customers' footfall.
 
-## ????️ Tech Stack
+## Tech Stack
 
 * **Data Processing:** `NumPy`,`pandas`, `matplotlib`
 * **Visualization Tools Used**:python libraries like
